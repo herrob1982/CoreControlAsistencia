@@ -1,5 +1,0 @@
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Compilados\Comun\Core.Herramientas.dll
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Compilados\Comun\Core.Herramientas.pdb
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Herramientas\obj\Debug\Core.Herramientas.csprojResolveAssemblyReference.cache
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Herramientas\obj\Debug\Core.Herramientas.dll
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Herramientas\obj\Debug\Core.Herramientas.pdb
