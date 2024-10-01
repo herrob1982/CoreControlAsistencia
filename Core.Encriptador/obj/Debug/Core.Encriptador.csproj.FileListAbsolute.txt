@@ -1,5 +1,0 @@
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Compilados\Comun\Core.Encriptador.dll
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Compilados\Comun\Core.Encriptador.pdb
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Encriptador\obj\Debug\Core.Encriptador.csprojResolveAssemblyReference.cache
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Encriptador\obj\Debug\Core.Encriptador.dll
-E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Encriptador\obj\Debug\Core.Encriptador.pdb
