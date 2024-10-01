@@ -1,0 +1,2 @@
+# CoreControlAsistencia
+Core de ControlAsistencia
