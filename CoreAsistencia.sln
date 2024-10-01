@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Encriptador", "Core.Encriptador\Core.Encriptador.csproj", "{08E8A964-4597-490F-9E8E-C5B76535379F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Herramientas", "Core.Herramientas\Core.Herramientas.csproj", "{E81DF643-5A88-46CB-AFCB-42BCA51BDF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Dto", "Core.Dto\Core.Dto.csproj", "{E5A37944-BF29-4B11-8F8E-809F73BDEFD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E8A964-4597-490F-9E8E-C5B76535379F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E8A964-4597-490F-9E8E-C5B76535379F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E8A964-4597-490F-9E8E-C5B76535379F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E8A964-4597-490F-9E8E-C5B76535379F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E81DF643-5A88-46CB-AFCB-42BCA51BDF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81DF643-5A88-46CB-AFCB-42BCA51BDF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81DF643-5A88-46CB-AFCB-42BCA51BDF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81DF643-5A88-46CB-AFCB-42BCA51BDF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A37944-BF29-4B11-8F8E-809F73BDEFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A37944-BF29-4B11-8F8E-809F73BDEFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A37944-BF29-4B11-8F8E-809F73BDEFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A37944-BF29-4B11-8F8E-809F73BDEFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1E0F65-5335-4D28-B331-54118B217D87}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://172.16.22.237:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Core.Encriptador\\Core.Encriptador.csproj
+		SccProjectName1 = Core.Encriptador
+		SccLocalPath1 = Core.Encriptador
+		SccProjectUniqueName2 = Core.Herramientas\\Core.Herramientas.csproj
+		SccProjectName2 = Core.Herramientas
+		SccLocalPath2 = Core.Herramientas
+		SccProjectUniqueName3 = Core.Dto\\Core.Dto.csproj
+		SccProjectName3 = Core.Dto
+		SccLocalPath3 = Core.Dto
+	EndGlobalSection
+EndGlobal

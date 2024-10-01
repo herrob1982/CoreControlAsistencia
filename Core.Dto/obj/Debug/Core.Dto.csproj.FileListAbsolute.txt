@@ -1,0 +1,5 @@
+E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Compilados\Comun\Core.Dto.dll
+E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Compilados\Comun\Core.Dto.pdb
+E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Dto\obj\Debug\Core.Dto.csprojResolveAssemblyReference.cache
+E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Dto\obj\Debug\Core.Dto.dll
+E:\SistemasSIC\APLICACIONES ECUADOR\CONTROLDEASISTENCIA\DES\Fuentes\CoreAsistencia\Core.Dto\obj\Debug\Core.Dto.pdb
